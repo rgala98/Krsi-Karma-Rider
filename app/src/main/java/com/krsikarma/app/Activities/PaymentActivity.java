@@ -85,7 +85,6 @@ public class PaymentActivity extends AppCompatActivity implements PaymentResultL
         btn_pay.setOnSlideCompleteListener(new SlideToActView.OnSlideCompleteListener() {
             @Override
             public void onSlideComplete(SlideToActView slideToActView) {
-                btn_pay.resetSlider();
                 order_amount = order_amount + "00";
                 getRequest(order_amount);
             }
@@ -209,6 +208,7 @@ public class PaymentActivity extends AppCompatActivity implements PaymentResultL
                     .addOnFailureListener(new OnFailureListener() {
                         @Override
                         public void onFailure(@NonNull Exception e) {
+                            btn_pay.resetSlider();
                             finish();
 
                         }
@@ -249,6 +249,7 @@ public class PaymentActivity extends AppCompatActivity implements PaymentResultL
                     @Override
                     public void onErrorResponse(VolleyError error) {
                         Log.e(TAG, "Error isn onErrorResponse ", error);
+                        btn_pay.resetSlider();
 
                     }
                 });
@@ -286,6 +287,7 @@ public class PaymentActivity extends AppCompatActivity implements PaymentResultL
         } catch (Exception e) {
 
             Log.e(TAG, "Error in starting Razorpay Checkout ", e);
+            btn_pay.resetSlider();
         }
 
 
@@ -336,10 +338,12 @@ public class PaymentActivity extends AppCompatActivity implements PaymentResultL
         try {
             Log.i(TAG, "onPaymentError: Code: " + code + " Response: " + response);
             JSONObject jsonObject = new JSONObject(response);
+            btn_pay.resetSlider();
             String message = getString(R.string.payment_failed_message) + " " + jsonObject.get("description") + " " + getString(R.string.please_try_again);
             showAlert(getString(R.string.payment_failed), message);
         } catch (Exception e) {
-            Log.e(TAG, "Exception in onPaymentError", e);
+            Log.e(TAG, "Exception in onPaymentError", e);btn_pay.resetSlider();
+
         }
     }
 

@@ -84,7 +84,7 @@
     <string name="order_ongoing_status">Our Partner has started the service.</string>
     <string name="order_completed_status">Your service was completed successfully. Hope you choose us again :)</string>
     <string name="order_pending_payment_status">Your payment is pending. Kindly proceed with the payment.</string>
-    <string name="order_driving_assigned_status">Your driver has accepted your request.</string>
+    <string name="order_driving_assigned_status">Our partner has accepted your request. Feel free to contact them.</string>
 
     <string name="pay_now">Pay Now</string>
     <string name="proceed_to_pay">Proceed to Pay</string>

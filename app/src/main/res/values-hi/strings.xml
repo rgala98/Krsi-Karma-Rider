@@ -91,7 +91,7 @@
     <string name="order_ongoing_status">हमारे साथी ने आपके अनुरोध को स्वीकार कर लिया है। जल्द ही आपसे संपर्क किया जाएगा।</string>
     <string name="order_completed_status">आपकी सेवा सफलतापूर्वक संपन्न हुई। आशा है आप हमें फिर से चुनेंगे :)</string>
     <string name="order_pending_payment_status">आपका भुगतान लंबित है। कृपया भुगतान के साथ आगे बढ़ें।</string>
-    <string name="order_driving_assigned_status">आपके ड्राइवर ने आपका अनुरोध स्वीकार कर लिया है.</string>
+    <string name="order_driving_assigned_status">हमारे साथी ने आपके अनुरोध को स्वीकार कर लिया है। बेझिझक उनसे संपर्क करें।</string>
 
     <string name="pay_now">अब भुगतान करें</string>
     <string name="proceed_to_pay">भुगतान करने के लिए आगे बढ़ें</string>
