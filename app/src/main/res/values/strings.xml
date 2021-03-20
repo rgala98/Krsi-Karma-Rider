@@ -1,0 +1,173 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Krsi Karma</string>
+    <string name="get_started">Lets get started</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="verify">Verify</string>
+    <string name="btn_text_continue">Continue</string>
+    <string name="terms_privacy_text">By continuing, I confirm that I have read and agree to the Terms and Conditions and Privacy Policy</string>
+    <string name="otp_screen_text">OTP Verification</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="otp_subtitle">Enter the 6-digit code we sent you at</string>
+    <string name="Please_enter_correct_OTP">Please enter correct OTP</string>
+    <string name="phone_number_is_valid">Your phone number is invalid</string>
+    <string name="too_many_requests">Too many requests have been sent on this number. Please try again later</string>
+    <string name="otp_sent">OTP Sent</string>
+    <string name="ok">OK</string>
+    <string name="enter_10_digit_number">Please enter a 10 digit phone number.</string>
+    <string name="enter_valid_number">Please enter a valid number</string>
+    <string name="otp_warning"> will send you an OTP to verify your mobile number. You will receive SMS for verification and standard rates may apply.</string>
+    <string name="otp_sent_to">OTP Sent to</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="open_settings_permission">You have permanently denied permissions. You will have to enable permissions at settings. </string>
+    <string name="open_settings">Open Settings</string>
+
+    <string name="create_profile_text">Create Profile</string>
+    <string name="first_name_text">First Name</string>
+    <string name="last_name_text">Last Name</string>
+    <string name="register_text">Register</string>
+
+    <string name="complete_all_fields">Please complete all fields</string>
+    <string name="internet_message">Seems like you are not connected to the internet! Kindly check your connection!</string>
+
+
+    <string name="search_service">Search for a service</string>
+    <string name="description">Description</string>
+    <string name="book_now">Book Now</string>
+    <string name="book_a_service">Book a Service</string>
+    <string name="when_would_you_like_service">When would you like your service?</string>
+    <string name="what_time">What time should our professional arrive?</string>
+    <string name="cannot_place_order">You cannot place an order when you have an on going request to be serviced!</string>
+
+    <string name="settings">Settings</string>
+    <string name="account">Account</string>
+    <string name="your_orders">Your Orders</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="logout">Logout</string>
+
+    <string name="are_you_sure_logout">Are you sure you want to logout?</string>
+    <string name="profile_pic_updated">Profile Picture Updated</string>
+
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+
+    <string name="acres">acres</string>
+
+    <string name="address">Address</string>
+    <string name="ordered_on">Ordered On</string>
+    <string name="raise_a_complaint">Raise a Complaint</string>
+    <string name="please_let_us_know">Please let us know what happened…</string>
+    <string name="submit">Submit</string>
+    <string name="edit">Edit</string>
+    <string name="complaint_successful_message">Your complaint has been registered. You will hear back from us shortly.</string>
+
+    <string name="updated">Updated</string>
+    <string name="select_address">Select Address</string>
+    <string name="forgot_address">Please enter your address</string>
+    <string name="forgot_date">Please choose when do you want your service</string>
+    <string name="forgot_time">Please choose what time do you want your service</string>
+
+    <string name="update_app">Update app to get all the latest features!</string>
+    <string name="install_now">Install Now</string>
+
+    <string name="booking_note">Note: The service will be confirmed by our nearby partner. You will receive their contact information. We advise you to please call and confirm the schedule of the service booked.\n\nYou can make the payment online or in cash once the service is completed.</string>
+
+    <string name="order_details">Order Details</string>
+    <string name="order_number">Order Number</string>
+    <string name="date">Date</string>
+    <string name="partner_details">Partner Details</string>
+    <string name="are_you_sure_cancel">Are you sure you want to cancel this request?</string>
+
+    <string name="order_requested_status">Thank you for choosing us! Your request is being processed and soon our partner will contact you ;)</string>
+    <string name="order_cancelled_status">Oh Sorry! Your order was cancelled</string>
+    <string name="order_ongoing_status">Our Partner has started the service.</string>
+    <string name="order_completed_status">Your service was completed successfully. Hope you choose us again :)</string>
+    <string name="order_pending_payment_status">Your payment is pending. Kindly proceed with the payment.</string>
+    <string name="order_driving_assigned_status">Your driver has accepted your request.</string>
+
+    <string name="pay_now">Pay Now</string>
+    <string name="proceed_to_pay">Proceed to Pay</string>
+    <string name="payment">Payment</string>
+    <string name="payment_failed">Payment Failed</string>
+    <string name="payment_pending">Payment Pending</string>
+    <string name="payment_note">Note: You will be redirected to the payment gateway.</string>
+    <string name="payment_failed_message">We were unable to process your payment; Reason: </string>
+    <string name="please_try_again">Please try again later.</string>
+    <string name="payment_completed">Payment Completed</string>
+    <string name="unable_to_add_onto_database">Payment is completed but not able to add onto databse. Please contact admin. </string>
+
+    <string name="greetings">Hi, </string>
+    <string name="paid_via">Paid via</string>
+
+    <!--    API KEYS-->
+    <string name="PLACES_API_KEY" translatable="false">AIzaSyAl_W-16U6yJI1RLf0gZdDd_IHoXFNi6L0</string>
+    <string name="RAZOR_PAY_KEY_TEST_ID" translatable="false">rzp_test_OIDz5gJWvfPlEl</string>
+
+    <!--    firebase strings-->
+
+    <string name="users" translatable="false">users</string>
+    <string name="user_id" translatable="false">user_id</string>
+    <string name="first_name" translatable="false">first_name</string>
+    <string name="last_name" translatable="false">last_name</string>
+    <string name="home_address" translatable="false">home_address</string>
+    <string name="work_address" translatable="false">work_address</string>
+    <string name="profile_img_url" translatable="false">profile_img_url</string>
+    <string name="date_created" translatable="false">date_created</string>
+    <string name="phone_number" translatable="false">phone_number</string>
+
+    <string name="services" translatable="false">services</string>
+    <string name="service_description" translatable="false">description</string>
+    <string name="image_url" translatable="false">image_url</string>
+    <string name="metric" translatable="false">metric</string>
+    <string name="name" translatable="false">name</string>
+    <string name="rate" translatable="false">rate</string>
+    <string name="service_id" translatable="false">service_id</string>
+
+
+    <string name="orders" translatable="false">orders</string>
+    <string name="order_id" translatable="false">order_id</string>
+    <string name="partner_id" translatable="false">partner_id</string>
+    <string name="order_date_time" translatable="false">order_date_time</string>
+    <string name="order_time" translatable="false">order_time</string>
+    <string name="order_status" translatable="false">order_status</string>
+    <string name="order_address" translatable="false">order_address</string>
+    <string name="order_quantity" translatable="false">order_quantity</string>
+    <string name="order_rate" translatable="false">order_rate</string>
+    <string name="order_metric" translatable="false">order_metric</string>
+    <string name="order_latitude" translatable="false">order_latitude</string>
+    <string name="order_longitude" translatable="false">order_longitude</string>
+    <string name="order_postal_code" translatable="false">order_postal_code</string>
+    <string name="service_name" translatable="false">service_name</string>
+    <string name="user_name" translatable="false">user_name</string>
+    <string name="order_otp" translatable="false">order_otp</string>
+    <string name="payment_mode" translatable="false">payment_mode</string>
+
+    <string name="order_status_type_completed" translatable="false">Completed</string>
+    <string name="order_status_type_ongoing" translatable="false">On Going</string>
+    <string name="order_status_type_cancelled" translatable="false">Cancelled</string>
+    <string name="order_status_type_requested" translatable="false">Requested</string>
+    <string name="order_status_type_payment_pending" translatable="false">Payment Pending</string>
+    <string name="order_status_type_driver_assigned" translatable="false">Driver Assigned</string>
+
+
+
+    <string name="complaints" translatable="false">complaints</string>
+    <string name="complaint_user_id" translatable="false">user_id</string>
+    <string name="complaint_message" translatable="false">message</string>
+    <string name="user_type" translatable="false">user_type</string>
+
+    <string name="partners" translatable="false">partners</string>
+
+    <string name="accounts" translatable="false">accounts</string>
+    <string name="order_document_id" translatable="false">order_document_id</string>
+    <string name="order_amount" translatable="false">order_amount</string>
+    <string name="razorpay_payment_id" translatable="false">razorpay_payment_id</string>
+
+    <string name="cash" translatable="false">cash</string>
+    <string name="online" translatable="false">online</string>
+
+
+
+
+</resources>

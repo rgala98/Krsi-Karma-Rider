@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Krsi Karma</string>
+    <string name="get_started">शुरू करें</string>
+
+    <string name="enter_mobile_number">मोबाइल नंबर दर्ज करें</string>
+    <string name="btn_text_continue">अगला</string>
+
+
+    <string name="terms_privacy_text">जारी रखकर, मैं पुष्टि करता हूं कि मैंने नियम और शर्तें और गोपनीयता नीति पढ़ ली है और इससे सहमत हूं</string>
+    <string name="otp_screen_text">OTP सत्यापनं</string>
+    <string name="resend_code">पुन: कोड भेजे</string>
+    <string name="otp_subtitle">आपके द्वारा भेजा गया 6-अंकीय कोड दर्ज करें</string>
+    <string name="Please_enter_correct_OTP">कृपया सही OTP दर्ज करें</string>
+    <string name="phone_number_is_valid">आपका फ़ोन नंबर अमान्य है</string>
+    <string name="too_many_requests">इस नंबर पर बहुत सारे अनुरोध भेजे गए हैं। बाद में पुन: प्रयास करें</string>
+    <string name="otp_sent">OTP भेजा गया</string>
+    <string name="ok">ठीक है</string>
+    <string name="enter_10_digit_number">कृपया दस अंकों का फ़ोन नंबर दर्ज करें।</string>
+    <string name="enter_valid_number">कृपया एक सही संख्या डालिये</string>
+    <string name="otp_warning">आपको अपना मोबाइल नंबर सत्यापित करने के लिए एक ओटीपी भेजेगा। आपको सत्यापन के लिए एसएमएस मिलेगा और मानक दरें लागू हो सकती हैं।</string>
+    <string name="otp_sent_to">OTP को भेजा गया</string>
+
+    <string name="cancel">रद्द करें</string>
+    <string name="error">त्रुटि</string>
+    <string name="verify">चेक</string>
+
+    <string name="open_settings_permission">आपके पास स्थायी रूप से अनुमतियाँ हैं। आपको सेटिंग्स में अनुमतियां सक्षम करनी होंगी।</string>
+    <string name="open_settings">सेटिंग्स खोलें</string>
+
+    <string name="create_profile_text">प्रोफ़ाइल बनाएं</string>
+    <string name="first_name_text">नाम</string>
+    <string name="last_name_text">उपनाम</string>
+    <string name="register_text">रजिस्टर करें</string>
+
+    <string name="complete_all_fields">कृपया सभी चीजों को पूरा करें</string>
+    <string name="internet_message">लगता है जैसे आप इंटरनेट से नहीं जुड़े हैं! कृपया अपना कनेक्शन जांचें!</string>
+
+    <string name="search_service">सेवा के लिए खोज करें</string>
+    <string name="description">विवरण</string>
+    <string name="book_now">अभी बुक करें</string>
+    <string name="book_a_service">सेवा बुक करें</string>
+    <string name="when_would_you_like_service">आप अपनी सेवा कब चाहते हैं?</string>
+    <string name="what_time">हमारे कार्यकर्ता को किस समय आना चाहिए?</string>
+    <string name="cannot_place_order">जब आप सेवित होने के लिए अनुरोध करने पर आपके पास कोई आदेश नहीं दे सकते!</string>
+
+
+    <string name="settings">सेटिंग्स</string>
+    <string name="account">खाता</string>
+    <string name="your_orders">अपके ऑर्डर</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="terms_of_use">उपयोग की शर्तें</string>
+    <string name="logout">लॉग आउट</string>
+
+    <string name="are_you_sure_logout">क्या आप लॉग आउट करना चाहते हैं?</string>
+    <string name="profile_pic_updated">प्रोफ़ाइल चित्र अपडेट किया गया</string>
+
+    <string name="take_photo">फोटो लो</string>
+    <string name="choose_from_gallery">गैलरी से चयन करो</string>
+
+    <string name="address">पता</string>
+    <string name="ordered_on">ऑर्डर की तारीख</string>
+    <string name="raise_a_complaint">शिकायत दर्ज करें</string>
+    <string name="please_let_us_know">कृपया हमें बताएं कि क्या हुआ...</string>
+    <string name="submit">भेजें</string>
+    <string name="edit">बदलो</string>
+    <string name="complaint_successful_message">आपकी शिकायत दर्ज कर ली गई है। आप शीघ्र ही हमारी ओर से सुनेंगे।</string>
+
+    <string name="acres">एकड़ जमीन</string>
+
+
+    <string name="updated">अद्यतन किया गया</string>
+    <string name="select_address">पता चुनें </string>
+    <string name="forgot_address">कृपया अपना पता दर्ज करें</string>
+    <string name="forgot_date">कृपया चुनें कि आप अपनी सेवा कब चाहते हैं</string>
+    <string name="forgot_time">कृपया चुनें कि आप अपनी सेवा किस समय चाहते हैं</string>
+
+    <string name="update_app">सभी नवीनतम सुविधाओं को प्राप्त करने के लिए ऐप अपडेट करें!</string>
+    <string name="install_now">अब स्थापित करें</string>
+
+    <string name="booking_note">नोट: सेवा की पुष्टि हमारे पास के साथी द्वारा की जाएगी। आपको उनकी संपर्क जानकारी प्राप्त होगी। हम आपको सलाह देते हैं कि कृपया कॉल करें और बुक की गई सेवा के शेड्यूल की पुष्टि करें। \ n \ n आप सेवा पूरा होने पर ऑनलाइन या नकद भुगतान कर सकते हैं।</string>
+
+    <string name="order_details">ऑर्डर का विवरण</string>
+    <string name="order_number">ऑर्डर नंबर</string>
+    <string name="date">तारीख</string>
+    <string name="partner_details">हमारे साथी का विवरण</string>
+    <string name="are_you_sure_cancel">क्या आप वाकई इस अनुरोध को रद्द करना चाहते हैं?</string>
+
+    <string name="order_requested_status">हमें चुनने के लिए धन्यवाद! आपके अनुरोध पर कार्रवाई की जा रही है और जल्द ही हमारा साथी आपसे संपर्क करेगा ;)</string>
+    <string name="order_cancelled_status">मुझे माफ करें! आपका आदेश रद्द कर दिया गया था</string>
+    <string name="order_ongoing_status">हमारे साथी ने आपके अनुरोध को स्वीकार कर लिया है। जल्द ही आपसे संपर्क किया जाएगा।</string>
+    <string name="order_completed_status">आपकी सेवा सफलतापूर्वक संपन्न हुई। आशा है आप हमें फिर से चुनेंगे :)</string>
+    <string name="order_pending_payment_status">आपका भुगतान लंबित है। कृपया भुगतान के साथ आगे बढ़ें।</string>
+    <string name="order_driving_assigned_status">आपके ड्राइवर ने आपका अनुरोध स्वीकार कर लिया है.</string>
+
+    <string name="pay_now">अब भुगतान करें</string>
+    <string name="proceed_to_pay">भुगतान करने के लिए आगे बढ़ें</string>
+    <string name="payment">भुगतान</string>
+    <string name="payment_pending">भुगतान लंबित</string>
+    <string name="payment_failed">भुगतान नहीं हुआ</string>
+    <string name="payment_note">नोट: आपको भुगतान गेटवे पर भेज दिया जाएगा।</string>
+    <string name="payment_failed_message">हम आपके भुगतान को संसाधित करने में असमर्थ थे;कारण: </string>
+    <string name="please_try_again">कृपया पुन: प्रयास करें।</string>
+    <string name="payment_completed">भुगतान पूरा हुआ</string>
+    <string name="unable_to_add_onto_database">भुगतान पूरा हो गया है, लेकिन डेटाबेस पर जोड़ने में सक्षम नहीं है। कृपया व्यवस्थापक से संपर्क करें। </string>
+
+
+    <string name="greetings">नमस्कार, </string>
+    <string name="paid_via">भुगतान माध्यम:</string>
+
+
+
+
+
+
+</resources>
