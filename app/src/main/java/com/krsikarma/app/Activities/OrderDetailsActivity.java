@@ -384,7 +384,6 @@ public class OrderDetailsActivity extends AppCompatActivity {
                                 }
 
                                 else if (order_status.equals(getString(R.string.order_status_type_driver_assigned))) {
-                                    //TODO: Change this driver assigned text
                                     tv_order_status_text.setText(getString(R.string.order_driving_assigned_status));
                                     tv_order_status_text.setTextColor(getColor(R.color.yellow));
                                     tv_payment_text.setVisibility(View.GONE);

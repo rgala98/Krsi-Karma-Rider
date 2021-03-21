@@ -219,17 +219,23 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/date_radio_group" />
 
-    <Spinner
-        android:id="@+id/time_spinner"
+    <FrameLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:background="@drawable/red_border_rectangle"
         android:padding="8dp"
-        android:textAlignment="center"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/tv_what_time" />
+        android:background="@drawable/red_border_rectangle"
+        app:layout_constraintTop_toBottomOf="@id/tv_what_time">
+        <Spinner
+            android:id="@+id/time_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center" />
+    </FrameLayout>
+
+
 
 
     <TextView
