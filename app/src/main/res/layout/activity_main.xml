@@ -40,7 +40,6 @@
             app:cardCornerRadius="99dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="@id/tv_user_greetings">
-
             <ImageView
                 android:id="@+id/img_user"
                 android:layout_width="match_parent"
